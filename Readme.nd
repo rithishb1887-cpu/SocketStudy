@@ -60,10 +60,10 @@ Programe:
         client_socket.close()
 Output:
 CLIENT:
-
+"C:\Users\acer\Downloads\11111.jpeg"
 
 SERVER:
-
+"C:\Users\acer\Downloads\22.jpeg"
 
 Result:
 Thus the study of Socket Programming Completed Successfully
